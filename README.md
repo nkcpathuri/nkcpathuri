@@ -1,7 +1,6 @@
 # 👋 Hey there! I'm N Krishna Chowdary Pathuri
 
-![Welcome Banner](https://source.unsplash.com/1600x400/?technology,code)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=I+am+a+Pega+developer;I+am+an+AI+Developer;I+am+a+Full+Stack+Developer)](https://git.io/typing-svg)
+![Welcome Banner](https://drive.google.com/uc?export=view&id=18zfbPbbuSW8GiU8UmCnn3n96oo6NfyYu)[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=I+am+a+Pega+developer;I+am+an+AI+Developer;I+am+a+Full+Stack+Developer)](https://git.io/typing-svg)
 
 ## 🚀 About Me  
 I'm a passionate **Generative AI enthusiast** and a **Pega specialist**, currently exploring the limitless potential of AI-driven content generation. I love building intelligent applications and leveraging cloud technologies to create impactful solutions.  
