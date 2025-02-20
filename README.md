@@ -3,7 +3,7 @@
 
 # 👋 Hey there! I'm [Your Name]  
 
-![Welcome Banner](https://drive.google.com/file/d/18zfbPbbuSW8GiU8UmCnn3n96oo6NfyYu/view?usp=drive_link)
+![Welcome Banner](https://source.unsplash.com/1600x400/?technology,code)
 
 ## 🚀 About Me  
 I'm a passionate **Generative AI enthusiast** and a **Pega specialist**, currently exploring the limitless potential of AI-driven content generation. I love building intelligent applications and leveraging cloud technologies to create impactful solutions.  
@@ -26,12 +26,17 @@ I'm a passionate **Generative AI enthusiast** and a **Pega specialist**, current
 
 ---
 
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nkcpathuri&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkcpathuri&layout=compact&theme=radical)
+
+---
 
 ## 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/nkcpathuri])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nkcpathuri)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nkcpathuri)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)  
 
 ---
 
 ### 🎯 "Building AI-powered solutions, one commit at a time!"  
+
