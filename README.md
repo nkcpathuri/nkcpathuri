@@ -1,7 +1,4 @@
-### N Krishna Chowdary Pathuri
-
-
-# 👋 Hey there! I'm [Your Name]  
+# 👋 Hey there! I'm [N Krishna Chowdary Pathuri]  
 
 ![Welcome Banner](https://source.unsplash.com/1600x400/?technology,code)
 
