@@ -3,7 +3,7 @@
 
 # 👋 Hey there! I'm [Your Name]  
 
-![Welcome Banner](https://source.unsplash.com/1600x400/?technology,code)
+![Welcome Banner]([https://source.unsplash.com/1600x400/?technology,code](https://drive.google.com/file/d/18zfbPbbuSW8GiU8UmCnn3n96oo6NfyYu/view?usp=drive_link))
 
 ## 🚀 About Me  
 I'm a passionate **Generative AI enthusiast** and a **Pega specialist**, currently exploring the limitless potential of AI-driven content generation. I love building intelligent applications and leveraging cloud technologies to create impactful solutions.  
