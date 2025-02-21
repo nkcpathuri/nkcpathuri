@@ -1,5 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
-![Welcome Banner](https://drive.google.com/file/d/18zfbPbbuSW8GiU8UmCnn3n96oo6NfyYu/view?usp=sharing)[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=I+am+a+Pega+developer;I+am+an+AI+Developer;I+am+a+Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=I+am+a+Pega+developer;I+am+an+AI+Developer;I+am+a+Full+Stack+Developer)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm N Krishna Chowdary Pathuri</h1>
 <h3 align="center">A passionate Pega Developer, AI Developer, Fullstack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://digitalroar.ae/img/web-development.gif")>
